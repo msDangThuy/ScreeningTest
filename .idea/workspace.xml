@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e8298c4-2e6e-4677-8f48-92d2fd7d8554" name="Default Changelist" comment="" />
+    <list default="true" id="9e8298c4-2e6e-4677-8f48-92d2fd7d8554" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ScreeningTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +20,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,12 +49,92 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation Testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScreeningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScreeningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ScreeningTest847/ScreeningTest/Automation Testing" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -184,15 +270,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginWordPress_01_02 - 2019.07.25 at 15h 53m 46s.xml">
-      <configuration name="LoginWordPress_01_02" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginWordPress_01_02_LoginTC01 - 2019.07.25 at 16h 16m 07s.xml">
-      <configuration name="LoginWordPress_01_02.LoginTC01" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginWordPress_01_02_LoginTC2 - 2019.07.25 at 16h 18m 03s.xml">
-      <configuration name="LoginWordPress_01_02.LoginTC2" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="LoginWordPress_01_02 - 2019.07.25 at 16h 19m 28s.xml">
       <configuration name="LoginWordPress_01_02" configurationId="TestNG" />
     </history-entry>
@@ -214,11 +291,20 @@
     <history-entry file="LoginWordPress_01_02 - 2019.07.25 at 20h 29m 58s.xml">
       <configuration name="LoginWordPress_01_02" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="LoginWordPress_01_02 - 2019.07.25 at 21h 10m 52s.xml">
+      <configuration name="LoginWordPress_01_02" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginWordPress_01_02 - 2019.07.25 at 21h 12m 50s.xml">
+      <configuration name="LoginWordPress_01_02" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginWordPress_01_02 - 2019.07.25 at 21h 20m 42s.xml">
+      <configuration name="LoginWordPress_01_02" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19213313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19515885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,43 +360,22 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/target/test-classes/Objects/Users.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/Objects/Users.class" />
     <entry file="file://$USER_HOME$/IdeaProjects/DANGTHITHUY_ST24_M33/src/LoginAdactinPage.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Objects/Users.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Objects/Users.java" />
     <entry file="file://$PROJECT_DIR$/test-output/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Actions/Login_Actions.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Actions/Login_Actions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/LoginWordPress_01_02.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/WordPressLogin.java" />
+    <entry file="file://$PROJECT_DIR$/Automation Testing/src/test/java/Tests/LoginWordPress_01_02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="272">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1160#1161#0" expanded="true" />
-            <element signature="e#1227#1228#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/LoginWordPress_01_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-457">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/WordPressLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -319,7 +384,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>12</last-edited>
+          <last-edited>12 (2)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
