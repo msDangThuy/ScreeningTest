@@ -1,8 +1,6 @@
 package Tests;
 
 import Actions.Login_Actions;
-import Objects.Users;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
